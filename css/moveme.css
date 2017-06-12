@@ -1,6 +1,6 @@
 /*custom design goes here*/
 .intro-block{
-    background: url(../images/purple.png) repeat;
+    background: url(../images/purpalt.png) repeat;
     padding: 100px 15px 60px;
     color: #fff;
 }
@@ -11,4 +11,14 @@
 }
 .tpad{
     padding-top: 20px;
+}
+.marketing{
+    backgroun-color: #e9e6df;
+}
+hr{
+    border-top: 1px solid #c9c9c9;
+}
+.info{
+    background: #ffa753 url(../images/skyline.png) repeat-x bottom;
+    padding: 80px 0;
 }
