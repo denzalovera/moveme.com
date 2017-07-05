@@ -73,6 +73,9 @@ hr{
 .ft_space{
     padding: 0 10px;
 } 
+.sidebar{
+    background-color: #e9e6df;       
+}
 @media(min-width: 768px){
     .carousel-inner > .item{
     height: 700px;
